@@ -1,7 +1,7 @@
 
 # Projeto de Processamento de Imagens com Filtros
 
-Este projeto contém a aplicação de seis filtros de processamento de imagens utilizando a linguagem Python e a biblioteca OpenCV. A imagem utilizada foi aplicada a cada filtro individualmente, e os resultados estão organizados em pastas separadas.
+Este projeto contém a aplicação de seis filtros de processamento de imagens utilizando a linguagem Python e a biblioteca OpenCV. A imagem utilizada foi aplicada a cada filtro individualmente.
 
 ## 1. Realce e Ajuste de Intensidade
 **Filtro:** Ajuste de contraste e brilho  
